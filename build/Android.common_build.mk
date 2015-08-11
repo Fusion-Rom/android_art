@@ -154,6 +154,7 @@ art_cflags := \
   -Wall \
   -Werror \
   -Wextra \
+  -Wno-error=clobbered \
   -Wno-sign-promo \
   -Wno-unused-parameter \
   -Wstrict-aliasing \
